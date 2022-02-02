@@ -1,0 +1,38 @@
+body {
+	background-color: darkred;
+}
+
+h1 {
+color: white;
+text-align: center;
+}
+#intro {
+color: white;
+text-align: center;
+}
+
+#time {
+	border:solid;
+	background-color: white;
+	color: black;
+	text-align: center;
+	margin-left: 40%;
+	margin-right: 40%;
+	padding: 20px;
+}
+
+#introdate {
+color: white;
+text-align: center;
+}
+
+#timedate {
+	border:solid;
+	background-color: white;
+	color: black;
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding: 20px;
+}
+}
